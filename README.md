@@ -1,16 +1,19 @@
-### Hi there 👋
+# _Salom_ ✋🏻
+---
+### 👨🏻‍💻 About myself
+I'm junior python developer from Dushanbe/Tajikistan.
 
-<!--
-**beha-py/beha-py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+1 year Python development experience, 5 months Django development experience. For learning, I read documentation and articles on Habr, watch videos on youtube, take courses on udemy and stepik
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my projects 
+- 🕶 I wanna find my first job
+- 💬 Ask me about python/django
+---
+### Technologies 
+- 🐍 Python 
+- 🐍 Django / Django Rest Framework / aiogram
+- 🐘 PostgreSQL
+- 🐧 Linux and Redis basics
+- 🐱‍👤 Git/GitHub
+- 🧱 OOP / API
