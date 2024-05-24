@@ -1,4 +1,4 @@
-# _Salom_ ✋🏻
+# _Durud_ ✋🏻
 ---
 ### 👨🏻‍💻 About myself
 I'm junior python developer from Dushanbe/Tajikistan.
